@@ -27,10 +27,8 @@ I love learning, math, literature and software.
 </p>
 <h3 align="left">
 <a href="https://www.linkedin.com/in/ali-eser-0039b018a/"><img src="https://img.icons8.com/fluency/96/null/linkedin.png" alt="LinkedIn" width="60" align="center"/></a>&nbsp&nbsp
-<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep"><img src="https://img.icons8.com/fluency/96/null/google-play-store-new.png" alt="Google Play Store" width="52" align="center"/></a>&nbsp&nbsp
-<a href="https://medium.com/@betulantep"><img src="https://img.icons8.com/glyph-neue/64/null/medium-logo.png" alt="Medium" width="64" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="mailto:betulantep0@gmail.com"><img src="https://img.icons8.com/fluency/96/null/gmail-new.png" alt="Gmail" width="56" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="https://twitter.com/betulantep"><img src="https://img.icons8.com/fluency/96/null/twitter.png" alt="Twitter" width="56" align="center"/></a>&nbsp&nbsp&nbsp
+<a href="https://medium.com/@ali.eser.50"><img src="https://img.icons8.com/glyph-neue/64/null/medium-logo.png" alt="Medium" width="64" align="center"/></a>&nbsp&nbsp&nbsp
+<a href="mailto:ali.eser.50@gmail.com"><img src="https://img.icons8.com/fluency/96/null/gmail-new.png" alt="Gmail" width="56" align="center"/></a>&nbsp&nbsp&nbsp
 </h3>
 <!---
 eserali/eserali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
