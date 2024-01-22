@@ -1,18 +1,30 @@
-- 👋 Hi, I’m @eserali
-- 👀 I’m interested in kotlin,android
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h1 align="center">Hi 👋, I'm Ali</h1>
+
+<h1 align="center">Hi there. I'm Ali ESER <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <br/>
+<p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='330'/>
+Develops full stack web applications using the end-to-end application framework, supports and produces open source projects, tries to use git technology very actively, likes to take part in active projects. Actively involved in software, software testing, database, image processing and cloud computing.
 
-<h3 align="left">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=400&height=60&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" /></h3>
+C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
 
+Asp.Net Core Mvc with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
+
+Web Api, Restful Api and Wsdl web service.
+
+SignalR WebSocket Apps.
+
+I also have many projects on WordPress.
+
+Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and design.
+ 
+I work on Deep Learning.
+
+I am interested in Cloud Computing; Amazon Web Services and Microsoft Azure.
+
+I love learning, math, literature and software. 
+"En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
+
+</p>
 <h3 align="left">
 <a href="https://linkedin.com/in/betulantep"><img src="https://img.icons8.com/fluency/96/null/linkedin.png" alt="LinkedIn" width="60" align="center"/></a>&nbsp&nbsp
 <a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep"><img src="https://img.icons8.com/fluency/96/null/google-play-store-new.png" alt="Google Play Store" width="52" align="center"/></a>&nbsp&nbsp
