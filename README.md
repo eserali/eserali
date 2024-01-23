@@ -7,7 +7,7 @@ I love researching different libraries for Android application development and m
 
 I developed a few projects using Kotlin software language.
 
-In my projects, I used structures such as Firebase, MVVM, Hilt, LiveData, Retrofit, Room, Navigation, Gif animation, Location, Permissions, View binding,Turkish - English language support. 
+In my projects, I used structures such as Firebase, MVVM, Hilt, LiveData, Retrofit, Room, Navigation,Glide, Gif animation, Location, Permissions, View binding,Turkish - English language support. 
 
 I also have knowledge about technologies such as Data binding, Coroutines, Jetpack compose, RxJava.
 
