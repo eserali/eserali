@@ -11,6 +11,7 @@ In my projects, I used structures such as Firebase, MVVM, Hilt, LiveData, Retrof
 
 I also have knowledge about technologies such as Data binding, Coroutines, Jetpack compose, RxJava.
 
+I enjoy software, hiking, playing chess and computer games. 
 
 
 <h3 align="left">Languages and Tools:</h3>
